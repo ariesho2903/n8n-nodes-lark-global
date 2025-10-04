@@ -1,0 +1,25 @@
+﻿{
+	"node": "n8n-nodes-feishu-lark.lark",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Communication", "HITL"],
+	"subcategories": {
+		"HITL": ["Human in the Loop"]
+	},
+	"alias": ["human", "form", "wait", "hitl", "approval"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://open.larksuite.com/document/faq/trouble-shooting/how-to-obtain-app-id"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://open.larksuite.com/document/client-docs/intro"
+			}
+		],
+		"generic": []
+	}
+}
+
+
