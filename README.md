@@ -1,3 +1,7 @@
+﻿### Credits
+Original node created by [zhgqthomas](https://github.com/zhgqthomas/n8n-nodes-feishu-lark).  
+Optimized and internationalized by [ariesho2903](https://github.com/ariesho2903).  
+Contact: [Telegram](https://t.me/ariesho205)  
 # n8n Nodes Lark Global
 
 Custom n8n community nodes for interacting with Lark Open Platform, including action nodes, triggers, and MCP helpers.
@@ -49,6 +53,7 @@ MIT License.
 > This package is based on the open-source work [n8n-nodes-feishu-lark](https://github.com/zhgqthomas/n8n-nodes-feishu-lark) by zhgqthomas.  
 > This fork has been optimized to remove Feishu dependencies and provide smoother performance for Lark-only use cases, rebranded as **n8n Lark Global**.  
 > Maintained by [ariesho2903](https://github.com/ariesho2903).
+
 
 
 

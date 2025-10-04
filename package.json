@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-lark-global",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "n8n LarkSuite Global: Optimized community nodes for Lark Open Platform. Based on the original Feishu-Lark nodes, with Feishu removed for lightweight global use.",
   "keywords": [
     "n8n-community-node-package",
@@ -87,4 +87,3 @@
     "url": "https://github.com/ariesho2903/n8n-nodes-lark-global/issues"
   }
 }
-
